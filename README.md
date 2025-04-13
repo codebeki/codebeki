@@ -25,6 +25,8 @@
 
 ## 📞 Connect with me
 - [Telegram](https://t.me/bi162)
+- <a href="mailto:bereketasfaw16@gmail.com">E-mail</a>
+
 
 
 
