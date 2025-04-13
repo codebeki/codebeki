@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there 👋 I'm Bereket!
+**Front-end Developer | Data Analyst | Document Editor**
 
-<!--
-**codebeki/codebeki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 Passionate about web technologies (HTML, CSS, JS) and data analysis.  
+📊 Skilled in Microsoft Excel and 4 years of document editing experience.  
+🚀 Always eager to learn, grow, and collaborate.
 
-Here are some ideas to get you started:
+## 🛠️ Tools & Technologies
+- HTML, CSS, JavaScript
+- Microsoft Excel
+- GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📞 Connect with me
+- [Telegram](https://t.me/bi162)
+
