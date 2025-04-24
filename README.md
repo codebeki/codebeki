@@ -18,9 +18,8 @@
 📊Skilled in Microsoft Excel and 4 years of document editing experience.  
 🚀 Always eager to learn, grow, and collaborate.
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=codebei&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats) 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codebei&show_icons=true&theme=radical)](https://github.com/codebei/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=codebeki&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codebeki&show_icons=true&theme=radical)](https://github.com/codebeki/github-readme-stats)
 
 
 ## 📞 Connect with me
