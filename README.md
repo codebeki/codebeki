@@ -17,10 +17,18 @@
 
 📊Skilled in Microsoft Excel and 4 years of document editing experience.  
 🚀 Always eager to learn, grow, and collaborate.
+# 📊 GitHub Stats:
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=codebeki&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codebeki&show_icons=true&theme=radical)](https://github.com/codebeki/github-readme-stats)
+![](https://nirzak-streak-stats.vercel.app/?user=codebeki&theme=dark&hide_border=false)   
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=codebeki&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=codebeki&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## 📞 Connect with me
 
