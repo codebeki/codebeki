@@ -3,7 +3,7 @@
 ---
  ![](https://komarev.com/ghpvc/?username=codebei&color=FF7F7F)
 
-<h3> Front-end Developer | Data Analyst | Document Editor <h3>
+<h3> Front-end Developer | Data Analyst | Documentation,Data Encoding and Cleaning <h3>
   
   ----
 
