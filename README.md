@@ -19,6 +19,7 @@
   <img alt="trello" src="https://img.shields.io/badge/-Trello-0052CC?style=flat-square&logo=trello&logoColor=white" />
   <img alt="google-slides" src="https://img.shields.io/badge/-Google_Slides-F4B400?style=flat-square&logo=google-slides&logoColor=white" />
   <img alt="google-docs" src="https://img.shields.io/badge/-Google_Docs-4285F4?style=flat-square&logo=google-docs&logoColor=white" />
+  <img alt="cisco-packet-tracer" src="https://img.shields.io/badge/-Cisco_Packet_Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
 </p>
 
 
