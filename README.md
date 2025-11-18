@@ -41,6 +41,8 @@
 ## 📞 Connect with me
 
 - <a href="mailto:bereketasfaw16@gmail.com">E-mail</a>
+- <a href="https://www.linkedin.com/in/bereket-asfaw92" target="_blank">LinkedIn</a>
+
 
 
 
