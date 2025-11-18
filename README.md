@@ -14,6 +14,13 @@
   <img alt="microsoft-excel" src="https://img.shields.io/badge/-Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
   <img alt="microsoft-word" src="https://img.shields.io/badge/-Microsoft_Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white" />
 </p>
+<p>
+  <img alt="google-sheets" src="https://img.shields.io/badge/-Google_Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white" />
+  <img alt="trello" src="https://img.shields.io/badge/-Trello-0052CC?style=flat-square&logo=trello&logoColor=white" />
+  <img alt="google-slides" src="https://img.shields.io/badge/-Google_Slides-F4B400?style=flat-square&logo=google-slides&logoColor=white" />
+  <img alt="google-docs" src="https://img.shields.io/badge/-Google_Docs-4285F4?style=flat-square&logo=google-docs&logoColor=white" />
+</p>
+
 
 📊Skilled in Microsoft Excel and 4 years of documentation and Data Encoding, Visualization and Cleaning experience.  
 🚀 Always eager to learn, grow, and collaborate.
