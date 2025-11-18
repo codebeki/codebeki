@@ -15,7 +15,7 @@
   <img alt="microsoft-word" src="https://img.shields.io/badge/-Microsoft_Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white" />
 </p>
 
-📊Skilled in Microsoft Excel and 4 years of document editing experience.  
+📊Skilled in Microsoft Excel and 4 years of documentation and Data Encoding, Visualization and Cleaning experience.  
 🚀 Always eager to learn, grow, and collaborate.
 # 📊 GitHub Stats:
 
