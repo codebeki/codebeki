@@ -1,8 +1,8 @@
 ##Hi there 👋 I'm Bereket!
 
 ---
- ![](https://komarev.com/ghpvc/?username=codebei&color=FF7F7F)
- ![](https://komarev.com/ghpvc/?username=codebei&color=00FF00)
+![](https://komarev.com/ghpvc/?username=codebei&color=66BD69)
+
 
 <h3> Front-end Developer | Data Analyst | Documentation,Data Encoding and Cleaning <h3>
   
