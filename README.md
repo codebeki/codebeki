@@ -4,7 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=codebei&color=66BD69)
 
 
-<h3> Front-end Developer | Data Analyst | Documentation,Data Encoding and Cleaning <h3>
+<h3> Front-end Developer | Data Analyst | Networking | Documentation,Data Encoding and Cleaning <h3>
   
   ----
 
@@ -24,7 +24,7 @@
 </p>
 
 
-📊Skilled in Microsoft Excel and 4 years of documentation and Data Encoding, Visualization and Cleaning experience.  
+📊Skilled in Microsoft Excel and 4 years of documentation and Data Encoding, Visualization and Cleaning experience and Networking Desing.  
 🚀 Always eager to learn, grow, and collaborate.
 # 📊 GitHub Stats:
 
